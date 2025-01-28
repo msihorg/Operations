@@ -1,8 +1,8 @@
-#Software Development Plan#
+#Software Development Plan
 
 Document the MSIH software development plans for 
 
-#2025#
+#2025
 
 - [ ] setup on prem server: web, mysql, drupal
 - [ ] setup base blazor: email, sms, payments, passwordless login, mysql, users, roles, profiles, api
@@ -19,7 +19,7 @@ Document the MSIH software development plans for
 - [ ] setup on prem mysql server
 - [ ] setup on prem drupal server
 - [ ] create base blazor component for passwordless login using email
-- [ ] setup on prem hosting all msih inc domains 
+- [ ] setup on prem hosting all msih inc domains:foodworker.org, electionsurvey.org, gd4.org, arbitrationclauses.com/org, arbitrationtransparency.org/com, nurturingcapitalism.org/com, studentresearchprojects.org/com, studentresearchproject.org/com
 
 ## February
 
