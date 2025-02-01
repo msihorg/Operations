@@ -15,17 +15,17 @@ Document the MSIH software development plans for
 
 ## January
 
-- [ ] setup on prem web server and configure for blazor
-- [ ] setup on prem mysql server
-- [ ] setup on prem drupal server
-- [ ] create base blazor component for passwordless login using email
-- [ ] setup on prem hosting all msih inc domains:foodworker.org, electionsurvey.org, gd4.org, arbitrationclauses.com/org, arbitrationtransparency.org/com, nurturingcapitalism.org/com, studentresearchprojects.org/com, studentresearchproject.org/com
+- [x] setup on prem web server and configure for blazor
+- [x] setup on prem mysql server
+- [x] setup on prem drupal server
+- [x] setup on prem hosting all msih inc domains:foodworker.org, electionsurvey.org, gd4.org, arbitrationtransparency.org
 
 ## February
-
+- [ ] create base blazor component for passwordless login using email
 - [ ] create base blazor component for passwordless login using sms
 - [ ] create base blazor component for payments using braintree
 - [ ] Donation Platform MVP: Make a donation and send out a thank you email
+- [ ] - [x] setup on prem hosting all msih inc domains: nurturingcapitalism.org/com, studentresearchprojects.org/com, studentresearchproject.org/com
 
 ## March
 
